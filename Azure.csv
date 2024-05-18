@@ -1,8 +1,0 @@
-﻿NAME,TYPE,LOCATION,RESOURCE GROUP,SUBSCRIPTION,LAST ACCESSED
-"vision","Resource group","East US","vision","Azure subscription 1","14 hours ago"
-"imagecleaner","Computer vision","East US","vision","Azure subscription 1","14 hours ago"
-"rg-fieldassist","Resource group","East US","rg-fieldassist","Azure subscription 1","15 hours ago"
-"sisiwet","Azure OpenAI","East US","Sisi","Azure subscription 1","15 hours ago"
-"Sisi","Resource group","Israel Central","Sisi","Azure subscription 1","16 hours ago"
-"mungbeans","Azure Cosmos DB for MongoDB (vCore)","East US","Sisi","Azure subscription 1","16 hours ago"
-"field","Azure AI project","East US","rg-fieldassist","Azure subscription 1","16 hours ago"
